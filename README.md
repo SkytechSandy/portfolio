@@ -1,6 +1,9 @@
 # Marketing and Data Analyst
 
-#### Technical Skills: SQL, Python (NumPy, Pandas), R, Git, GitHub, Excel | Correlation, Regression, Hypothesis Testing, Forecasting, KPI Analysis | Tableau, Power BI, Seaborn, Matplotlib
+### Technical Skills
+**Programming & Tools:** SQL, Python (NumPy, Pandas), R, Git, GitHub, Excel \  
+**Analytics:** Correlation, Regression, Hypothesis Testing, Forecasting, KPI Analysis \
+**Visualization:** Tableau, Power BI, Seaborn, Matplotlib
 
 ### Education 
 M.S., Data Analytics | Eastern University | (_December 2026_)  \
