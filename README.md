@@ -1,8 +1,8 @@
 # Marketing and Data Analyst
 
 ### Technical Skills
-**Programming & Tools:** SQL, Python (NumPy, Pandas), R, Git, GitHub, Excel \  
-**Analytics:** Correlation, Regression, Hypothesis Testing, Forecasting, KPI Analysis \
+**Programming & Tools:** SQL, Python (NumPy, Pandas), R, Git, GitHub, Excel  \
+**Analytics:** Correlation, Regression, Hypothesis Testing, Forecasting, KPI Analysis  \
 **Visualization:** Tableau, Power BI, Seaborn, Matplotlib
 
 ### Education 
