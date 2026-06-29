@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Python (NumPy, Pandas), R, Git, GitHub, Excel | Correlation, Regression, Hypothesis Testing, Forecasting, KPI Analysis | Tableau, Power BI, Seaborn, Matplotlib
 
 ### Education 
-M.S., Data Analytics | Eastern University | (_December 2026_)
+M.S., Data Analytics | Eastern University | (_December 2026_)  
 B.S., Business Administration & Marketing | Colorado State University | (_May 2023_)
 
 ### Work Experience
