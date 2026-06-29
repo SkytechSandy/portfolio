@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Python (NumPy, Pandas), R, Git, GitHub, Excel | Correlation, Regression, Hypothesis Testing, Forecasting, KPI Analysis | Tableau, Power BI, Seaborn, Matplotlib
 
 ### Education 
-M.S., Data Analytics | Eastern University | (_December 2026_)  
+M.S., Data Analytics | Eastern University | (_December 2026_)  \
 B.S., Business Administration & Marketing | Colorado State University | (_May 2023_)
 
 ### Work Experience
@@ -27,5 +27,5 @@ data.
 - Designed questionnaires optimized for data quality, statistical rigor, and downstream analysis requirements.  
 
 ### Projects
-**Information Visualization: DTSC 600 (_May 2026 - June 2026_)
+**Information Visualization: DTSC 600 (_May 2026 - June 2026_)**  \
 Developed an interactive Tableau dashboard integrating advanced data analysis, calculations, and storytelling techniques to uncover actionable insights and communicate findings through visually compelling narratives. 
